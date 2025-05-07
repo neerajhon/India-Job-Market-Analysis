@@ -1,6 +1,6 @@
 # 🌟 Job Analysis Dashboard 📊
 
-[live Dashboard](https://app.powerbi.com/links/C7ozjNA3-7?ctid=950737a4-2947-46ce-9c53-4728f01fd598&pbi_source=linkShare)
+[Live Dashboard](https://app.powerbi.com/links/C7ozjNA3-7?ctid=950737a4-2947-46ce-9c53-4728f01fd598&pbi_source=linkShare)
 
 ## 🎯 Overview
 
