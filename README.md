@@ -1,6 +1,6 @@
 # 🌟 Job Analysis Dashboard 📊
 
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Job+Analysis+Dashboard+🚀) <!-- Replace with your project banner image if available -->
+[live Dashboard](https://app.powerbi.com/links/C7ozjNA3-7?ctid=950737a4-2947-46ce-9c53-4728f01fd598&pbi_source=linkShare)
 
 ## 🎯 Overview
 
